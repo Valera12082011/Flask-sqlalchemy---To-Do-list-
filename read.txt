@@ -1,0 +1,52 @@
+Thank you all for downloading my project
+it is written in Python and will help everyone get started with Flask and sqlalchemy.
+
+In this case we will work with the most important:
+ 1) render_template - this method render html form and show in your browser 
+ 2) Sessions - are a mechanism created for temporary storage and transfer of information between scripts within the site.
+ 3) sqlalchemy - SQL toolkit and object-relational mapping for the Python programming language. He use in all project. in general, to save all data
+
+Thank for comming. All the best in you project
+
+
+
+
+
+
+Дякую всім за завантаження мого проекту
+він написаний на Python і допоможе кожному почати роботу з Flask і sqlalchemy.
+
+У цьому випадку ми будемо працювати з найважливішим:
+ 1) render_template - цей метод відтворює HTML-форму та показує її у вашому браузері
+ 2) Сесії - це механізм, створений для тимчасового зберігання та передачі інформації між скриптами всередині сайту.
+ 3) sqlalchemy - інструментарій SQL і об'єктно-реляційне відображення для мови програмування Python. Він використовується у всіх проектах. загалом, щоб зберегти всі дані
+
+Дякую, що прийшли. Всього найкращого у вашому проекті
+
+
+
+
+
+Gracias a todos por descargar mi proyecto.
+está escrito en Python y ayudará a todos a comenzar con Flask y sqlalchemy.
+
+En este caso trabajaremos con los más importantes:
+ 1) render_template: este método representa el formulario html y lo muestra en su navegador
+ 2) Sesiones: son un mecanismo creado para el almacenamiento temporal y la transferencia de información entre scripts dentro del sitio.
+ 3) sqlalchemy: kit de herramientas SQL y mapeo relacional de objetos para el lenguaje de programación Python. Lo utiliza en todos los proyectos. en general, para guardar todos los datos.
+
+Gracias por venir. Todo lo mejor en tu proyecto.
+
+
+
+
+
+Спасибо всем за загрузку моего проекта
+он написан на Python и поможет каждому начать работу с Flask и sqlalchemy.
+
+В данном случае мы будем работать с самым важным:
+ 1) render_template — этот метод отображает HTML-форму и отображает ее в вашем браузере.
+ 2) Сессии – это механизм, созданный для временного хранения и передачи информации между скриптами внутри сайта.
+ 3) sqlalchemy — набор инструментов SQL и объектно-реляционное отображение для языка программирования Python. Его используют во всех проектах. в общем, чтобы сохранить все данные
+
+Спасибо, что пришли. Всего наилучшего в вашем проекте
